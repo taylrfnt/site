@@ -13,24 +13,24 @@
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+      <description>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+      <content>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;
+&lt;p&gt;I am not exactly sure how I should sign this post off, but expect more posts
+coming in the future!&lt;/p&gt;
 </content>
     </item>
     

@@ -1,11 +1,13 @@
 +++
 date = '2025-06-28T14:45:29-05:00'
 draft = false
+author = "Taylor Font"
+authorTwitter = ""
+cover = ""
+coverCaption = ""
 title = 'Hello World'
 tags = ['hello-world']
 +++
-
-## Hello World!
 
 This is my first content page for my site.
 

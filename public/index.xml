@@ -148,110 +148,24 @@ Cheers!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Generative API Design with Goa</title>
-      <link>http://localhost:1313/posts/goa-design/</link>
-      <pubDate>Sat, 28 Jun 2025 19:54:41 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/goa-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>http://localhost:1313/showcase/</link>
-      <pubDate>Sat, 28 Jun 2025 15:23:18 -0500</pubDate>
-      
-      <guid>http://localhost:1313/showcase/</guid>
-      <description>&lt;h1 id=&#34;showcase&#34;&gt;Showcase&lt;/h1&gt;
-&lt;p&gt;Occassionally, I may have something I wish to showcase.&lt;/p&gt;
-&lt;p&gt;When I do, it will live here!&lt;/p&gt;</description>
-      <content>&lt;h1 id=&#34;showcase&#34;&gt;Showcase&lt;/h1&gt;
-&lt;p&gt;Occassionally, I may have something I wish to showcase.&lt;/p&gt;
-&lt;p&gt;When I do, it will live here!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;taylor-font&#34;&gt;Taylor Font&lt;/h2&gt;
-&lt;p&gt;Hi! I am Taylor Font, and welcome to my site! I am a mechanical engineer turned
-consultant/software developer/general technology geek from the United States.&lt;/p&gt;
-&lt;p&gt;I love learning up-and-coming technolgies, putting them into practice, and
-contribtuing back to the open source community.&lt;br&gt;
-I currently spend my days split between my working hours at &lt;code&gt;$dayjob&lt;/code&gt; doing all
-sorts of crazy things and volunteering with the Ghostty team as a helper.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;taylor-font&#34;&gt;Taylor Font&lt;/h2&gt;
-&lt;p&gt;Hi! I am Taylor Font, and welcome to my site! I am a mechanical engineer turned
-consultant/software developer/general technology geek from the United States.&lt;/p&gt;
-&lt;p&gt;I love learning up-and-coming technolgies, putting them into practice, and
-contribtuing back to the open source community.&lt;br&gt;
-I currently spend my days split between my working hours at &lt;code&gt;$dayjob&lt;/code&gt; doing all
-sorts of crazy things and volunteering with the Ghostty team as a helper.&lt;/p&gt;
-&lt;h2 id=&#34;certifications&#34;&gt;Certifications&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Certification Name&lt;/th&gt;
-          &lt;th&gt;Issued&lt;/th&gt;
-          &lt;th&gt;Expires&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Microsoft Azure Fundamentals [AZ-900]&lt;/td&gt;
-          &lt;td&gt;2022&lt;/td&gt;
-          &lt;td&gt;&amp;ndash;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Microsoft Azure Administrator [AZ-104]&lt;/td&gt;
-          &lt;td&gt;2025&lt;/td&gt;
-          &lt;td&gt;2026&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;technology-i-love&#34;&gt;Technology I Love&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://nixos.org&#34;&gt;NixOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://neovim.io/&#34;&gt;Neovim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;my-links&#34;&gt;My Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;My &lt;a href=&#34;https://github.com/taylrfnt/dotfiles&#34;&gt;dots&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Check out my projects on &lt;a href=&#34;https://github.com/taylrfnt&#34;&gt;GitHub&lt;/a&gt;!&lt;/li&gt;
-&lt;li&gt;Check out &lt;a href=&#34;https://ghostty.org/&#34;&gt;Ghostty&lt;/a&gt; if you&amp;rsquo;re looking for a new
-terminal!&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+      <description>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+      <content>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;
