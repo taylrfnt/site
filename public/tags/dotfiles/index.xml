@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dotfiles on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/dotfiles/</link>
+    <description>Recent content in Dotfiles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/dotfiles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Neat Nix Modules</title>
+      <link>http://localhost:1313/posts/nix-modules/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/nix-modules/</guid>
+      <description>&lt;p&gt;I have been using NixOS for about a year now. My daily driver is a Mac Mini M4,
+which I manage with &lt;code&gt;nix&lt;/code&gt; (the package manager). I also have several NixOS
+machines that host my homelab, and a NixOS cirtual machine that I have started
+to use as my own fully-customized development environment.&lt;/p&gt;
+&lt;p&gt;All that said, the majority of my time using Nix &amp;amp; NixOS has involved minimal
+exploration of modules. I relied heavily on the use of the usual suspects:
+&lt;code&gt;home-manager&lt;/code&gt; for manaing my user packages and dotfiles and &lt;code&gt;nix-darwin&lt;/code&gt; for
+declarative management of my MacOS environment. I never found an ideal
+replacement for my Neovim configurations, so I relied on the trusty
+&lt;a href=&#34;https://github.com/nix-community/home-manager/blob/76d0c31fce2aa0c71409de953e2f9113acd5b656/modules/files.nix#L76-L119&#34;&gt;&lt;code&gt;mkOutOfStoreSymlink&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;p&gt;I have been using NixOS for about a year now. My daily driver is a Mac Mini M4,
+which I manage with &lt;code&gt;nix&lt;/code&gt; (the package manager). I also have several NixOS
+machines that host my homelab, and a NixOS cirtual machine that I have started
+to use as my own fully-customized development environment.&lt;/p&gt;
+&lt;p&gt;All that said, the majority of my time using Nix &amp;amp; NixOS has involved minimal
+exploration of modules. I relied heavily on the use of the usual suspects:
+&lt;code&gt;home-manager&lt;/code&gt; for manaing my user packages and dotfiles and &lt;code&gt;nix-darwin&lt;/code&gt; for
+declarative management of my MacOS environment. I never found an ideal
+replacement for my Neovim configurations, so I relied on the trusty
+&lt;a href=&#34;https://github.com/nix-community/home-manager/blob/76d0c31fce2aa0c71409de953e2f9113acd5b656/modules/files.nix#L76-L119&#34;&gt;&lt;code&gt;mkOutOfStoreSymlink&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More recently, I have been exploring more modules and alternative approaches to
+managing my nix environments, and have been pleasantly surprised by what I have
+found out in the community.&lt;/p&gt;
+&lt;h2 id=&#34;for-the-neovim-user---nvf&#34;&gt;For the Neovim User - &lt;code&gt;nvf&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;First, let&amp;rsquo;s address the ugly duckling in my configurations - Neovim. While I
+could have opted for management via other modules like
+&lt;a href=&#34;https://github.com/nix-community/nixvim&#34;&gt;&lt;code&gt;nixvim&lt;/code&gt;&lt;/a&gt;, I always found them to be
+lacking for one reason or another.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a few of the common headaches I always ran into when attempting to use
+other modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lack of flexibility.&lt;/strong&gt; It can be quite tedious (and sometimes downright
+frustrating) to hunt down if certain options that were easily accessible in
+traditional environments via Lua were exposed in Nix module options. Writing
+overlays of the module just to enable a single feature was not for me.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multiple configuration languages.&lt;/strong&gt; Most modules that attept to avoid the
+flexibility issue above opt for management of configuration in Lua directly.
+This is certainly more flexible, but then my configurations were all written
+in Nix language &lt;em&gt;except&lt;/em&gt; Neovim, which I managed in Lua seperately. I found
+the context switching was quite annoying, and simply wrapping Lua files felt
+far less &amp;ldquo;magical&amp;rdquo; than the Nix experience is with other configurations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enter &lt;a href=&#34;https://github.com/NotAShelf/nvf&#34;&gt;&lt;code&gt;nvf&lt;/code&gt;&lt;/a&gt; by the amazingly talented raf
+(aka NotAShelf). &lt;code&gt;nvf&lt;/code&gt; manages&lt;/p&gt;
+&lt;h2 id=&#34;for-the-home-manager-hater---hjem&#34;&gt;For the Home Manager Hater - &lt;code&gt;hjem&lt;/code&gt;&lt;/h2&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

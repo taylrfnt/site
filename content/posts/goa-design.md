@@ -1,6 +1,7 @@
 +++
-title = "Generative API Desing with Goa"
+title = "Generative API Design with Goa"
 date = "2025-06-28T19:54:41-05:00"
+draft = true
 author = ""
 authorTwitter = "" #do not include @
 cover = ""

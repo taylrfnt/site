@@ -1,6 +1,6 @@
 +++
 date = '2025-06-28T14:45:29-05:00'
-draft = true
+draft = false
 title = 'Hello World'
 tags = ['hello-world']
 +++
@@ -17,3 +17,6 @@ how to host & serve static content over the web. You can read more about me
 This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.
+
+I am not exactly sure how I should sign this post off, but expect more posts
+coming in the future!

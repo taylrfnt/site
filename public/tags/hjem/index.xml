@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Hjem on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/hjem/</link>
+    <description>Recent content in Hjem on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/hjem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Neat Nix Modules</title>
       <link>http://localhost:1313/posts/nix-modules/</link>
@@ -144,45 +144,6 @@ macOS system until the new linker(s) make their way into the light of day.&lt;/p
 &lt;p&gt;That&amp;rsquo;s all I have for now! Hopefully my experience on these modules have at
 least given you something to think about for your own Nix configurations.
 Cheers!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Generative API Design with Goa</title>
-      <link>http://localhost:1313/posts/goa-design/</link>
-      <pubDate>Sat, 28 Jun 2025 19:54:41 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/goa-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
-&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
-an interest in in backend development, terminal emulation, and more recently,
-how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
-find interesting. I have no idea how often I will be posting, but expect an
-assortment of topics and content.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
-&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
-&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
-an interest in in backend development, terminal emulation, and more recently,
-how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
-find interesting. I have no idea how often I will be posting, but expect an
-assortment of topics and content.&lt;/p&gt;
-&lt;p&gt;I am not exactly sure how I should sign this post off, but expect more posts
-coming in the future!&lt;/p&gt;
 </content>
     </item>
     
