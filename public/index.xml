@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jun 2025 15:23:18 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Showcase</title>
+      <link>http://localhost:1313/showcase/</link>
+      <pubDate>Sat, 28 Jun 2025 15:23:18 -0500</pubDate>
+      
+      <guid>http://localhost:1313/showcase/</guid>
+      <description>&lt;h1 id=&#34;showcase&#34;&gt;Showcase&lt;/h1&gt;
+&lt;p&gt;Occassionally, I may have something I wish to showcase.&lt;/p&gt;
+&lt;p&gt;When I do, it will live here!&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;showcase&#34;&gt;Showcase&lt;/h1&gt;
+&lt;p&gt;Occassionally, I may have something I wish to showcase.&lt;/p&gt;
+&lt;p&gt;When I do, it will live here!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;taylor-font&#34;&gt;Taylor Font&lt;/h2&gt;
+&lt;p&gt;lorem ipsum dolem&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;tools-i-love&#34;&gt;Tools I Love&lt;/h2&gt;
+&lt;p&gt;
+&lt;img src=&#34;https://icon.icepanel.io/Technology/svg/NixOS.svg&#34;  alt=&#34;NixOS&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;50&#34;   height=&#34;50&#34;  /&gt;
+
+ 
+ &lt;img src=&#34;https://icon.icepanel.io/Technology/svg/Git.svg&#34;  alt=&#34;NixOS&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;50&#34;   height=&#34;50&#34;  /&gt;
+ 
+&lt;/p&gt;
+&lt;h2 id=&#34;software-development&#34;&gt;Software Development&lt;/h2&gt;
+&lt;h3 id=&#34;i-am-interested-in&#34;&gt;I am interested in&lt;/h3&gt;
+&lt;h3 id=&#34;i-am-skilled-in&#34;&gt;I am skilled in&lt;/h3&gt;
+&lt;h2 id=&#34;my-links&#34;&gt;My Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out my projects on &lt;a href=&#34;https://github.com/taylrfnt&#34;&gt;GitHub&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Check out &lt;a href=&#34;https://ghostty.org/&#34;&gt;Ghostty&lt;/a&gt; if you&amp;rsquo;re looking for a new
+terminal!&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h2 id=&#34;taylor-font&#34;&gt;Taylor Font&lt;/h2&gt;
+&lt;p&gt;lorem ipsum dolem&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;tools-i-love&#34;&gt;Tools I Love&lt;/h2&gt;
+&lt;p&gt;
+&lt;img src=&#34;https://icon.icepanel.io/Technology/svg/NixOS.svg&#34;  alt=&#34;NixOS&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;50&#34;   height=&#34;50&#34;  /&gt;
+
+ 
+ &lt;img src=&#34;https://icon.icepanel.io/Technology/svg/Git.svg&#34;  alt=&#34;NixOS&#34;  class=&#34;left&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;50&#34;   height=&#34;50&#34;  /&gt;
+ 
+&lt;/p&gt;
+&lt;h2 id=&#34;software-development&#34;&gt;Software Development&lt;/h2&gt;
+&lt;h3 id=&#34;i-am-interested-in&#34;&gt;I am interested in&lt;/h3&gt;
+&lt;h3 id=&#34;i-am-skilled-in&#34;&gt;I am skilled in&lt;/h3&gt;
+&lt;h2 id=&#34;my-links&#34;&gt;My Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out my projects on &lt;a href=&#34;https://github.com/taylrfnt&#34;&gt;GitHub&lt;/a&gt;!&lt;/li&gt;
+&lt;li&gt;Check out &lt;a href=&#34;https://ghostty.org/&#34;&gt;Ghostty&lt;/a&gt; if you&amp;rsquo;re looking for a new
+terminal!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
+&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
+an interest in in backend development, terminal emulation, and more recently,
+how to host &amp;amp; serve static content over the web. You can read more about me
+&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
+find interesting. I have no idea how often I will be posting, but expect an
+assortment of topics and content.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
+&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
+an interest in in backend development, terminal emulation, and more recently,
+how to host &amp;amp; serve static content over the web. You can read more about me
+&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
+find interesting. I have no idea how often I will be posting, but expect an
+assortment of topics and content.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

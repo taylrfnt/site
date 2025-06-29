@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello-World on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/hello-world/</link>
+    <description>Recent content in Hello-World on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jun 2025 14:45:29 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
+&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
+an interest in in backend development, terminal emulation, and more recently,
+how to host &amp;amp; serve static content over the web. You can read more about me
+&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
+find interesting. I have no idea how often I will be posting, but expect an
+assortment of topics and content.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;
+&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
+&lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
+an interest in in backend development, terminal emulation, and more recently,
+how to host &amp;amp; serve static content over the web. You can read more about me
+&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site will be a place to showcase my various projects and assorted things I
+find interesting. I have no idea how often I will be posting, but expect an
+assortment of topics and content.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
