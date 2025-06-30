@@ -5,6 +5,7 @@ author = "Taylor Font"
 authorTwitter = ""
 cover = ""
 coverCaption = ""
+draft = false
 tags = ["nix", "neovim", "dotfiles", "home-manager", "nvf", "hjem"]
 keywords = ["nix", "neovim", "dotfiles", "modules", "nvf", "hjem"]
 description = ""

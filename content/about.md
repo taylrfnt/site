@@ -11,6 +11,7 @@ consultant/software developer/general technology geek from the United States.
 
 I love learning up-and-coming technolgies, putting them into practice, and
 contribtuing back to the open source community.\
+
 I currently spend my days split between my working hours at `$dayjob` doing all
 sorts of crazy things and volunteering with the Ghostty team as a helper.
 
