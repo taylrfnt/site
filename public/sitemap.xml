@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/dotfiles/</loc>
+    <loc>https://taylorfont.com/tags/dotfiles/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hjem/</loc>
+    <loc>https://taylorfont.com/tags/hjem/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/home-manager/</loc>
+    <loc>https://taylorfont.com/tags/home-manager/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://taylorfont.com/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/neovim/</loc>
+    <loc>https://taylorfont.com/tags/neovim/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/nix/</loc>
+    <loc>https://taylorfont.com/tags/nix/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/nvf/</loc>
+    <loc>https://taylorfont.com/tags/nvf/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://taylorfont.com/posts/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/nix-modules/</loc>
+    <loc>https://taylorfont.com/posts/nix-modules/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://taylorfont.com/tags/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hello-world/</loc>
+    <loc>https://taylorfont.com/posts/hello-world/</loc>
     <lastmod>2025-06-28T14:45:29-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hello-world/</loc>
+    <loc>https://taylorfont.com/tags/hello-world/</loc>
     <lastmod>2025-06-28T14:45:29-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://taylorfont.com/categories/</loc>
   </url>
 </urlset>
