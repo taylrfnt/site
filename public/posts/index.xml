@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some Neat Nix Modules</title>
-      <link>http://localhost:1313/posts/nix-modules/</link>
+      <link>https://example.org/posts/nix-modules/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/nix-modules/</guid>
+      <guid>https://example.org/posts/nix-modules/</guid>
       <description>&lt;p&gt;I have been using NixOS for about a year now. My daily driver is a Mac Mini M4,
 which I manage with &lt;code&gt;nix&lt;/code&gt; (the package manager). I also have several NixOS
 machines that host my homelab, and a NixOS cirtual machine that I have started
@@ -68,7 +68,7 @@ allows for the use of raw Lua when it is needed via the
 &lt;a href=&#34;https://nixos.org/manual/nixpkgs/unstable/#function-library-lib.generators.mkLuaInline&#34;&gt;&lt;code&gt;mkLuaInline&lt;/code&gt;&lt;/a&gt;
 generator. It is available as a standalone Nix module (or as a Home-Manager
 module, for those who wish to stick with Home-Manager; though be sure to read
-&lt;a href=&#34;http://localhost:1313/posts/nix-modules/#for-the-home-manager-hater---hjem&#34;&gt;the next section&lt;/a&gt; for an up-and-coming
+&lt;a href=&#34;https://example.org/posts/nix-modules/#for-the-home-manager-hater---hjem&#34;&gt;the next section&lt;/a&gt; for an up-and-coming
 module which may change your mind!).&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s also a very comprehnsive list of existing support for Neovim plugins
 from maintainers as well as the community - with more plugins and options being
@@ -149,10 +149,10 @@ Cheers!&lt;/p&gt;
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://example.org/posts/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://example.org/posts/hello-world/</guid>
       <description>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
