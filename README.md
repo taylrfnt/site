@@ -21,4 +21,4 @@ Most of the posts are written in Markdown. It's just better that way.
 
 ## CI/CD
 
-TODO: update this once I decide on a host
+The site is hosted on Cloudflare Pages, so look at their docs for more info.
