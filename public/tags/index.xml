@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
+<<<<<<< HEAD
     <link>https://taylorfont.com/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -13,66 +14,121 @@
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/dotfiles/</guid>
+=======
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dotfiles</title>
+      <link>https://example.org/tags/dotfiles/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/dotfiles/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hjem</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/hjem/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/hjem/</guid>
+=======
+      <link>https://example.org/tags/hjem/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/hjem/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Home-Manager</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/home-manager/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/home-manager/</guid>
+=======
+      <link>https://example.org/tags/home-manager/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/home-manager/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Neovim</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/neovim/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/neovim/</guid>
+=======
+      <link>https://example.org/tags/neovim/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/neovim/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Nix</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/nix/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/nix/</guid>
+=======
+      <link>https://example.org/tags/nix/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/nix/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Nvf</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/nvf/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/nvf/</guid>
+=======
+      <link>https://example.org/tags/nvf/</link>
+      <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
+      
+      <guid>https://example.org/tags/nvf/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hello-World</title>
+<<<<<<< HEAD
       <link>https://taylorfont.com/tags/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
       <guid>https://taylorfont.com/tags/hello-world/</guid>
+=======
+      <link>https://example.org/tags/hello-world/</link>
+      <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
+      
+      <guid>https://example.org/tags/hello-world/</guid>
+>>>>>>> origin/main
       <description></description>
       <content></content>
     </item>
