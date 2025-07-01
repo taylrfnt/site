@@ -148,16 +148,6 @@ Cheers!&lt;/p&gt;
     </item>
     
     <item>
-      <title>Generative API Design with Goa</title>
-      <link>//localhost:1313/posts/goa-design/</link>
-      <pubDate>Sat, 28 Jun 2025 19:54:41 -0500</pubDate>
-      
-      <guid>//localhost:1313/posts/goa-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>//localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
@@ -167,7 +157,7 @@ Cheers!&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;../about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;</description>
@@ -175,7 +165,7 @@ assortment of topics and content.&lt;/p&gt;</description>
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,
 how to host &amp;amp; serve static content over the web. You can read more about me
-&lt;a href=&#34;../about/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;../about&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This site will be a place to showcase my various projects and assorted things I
 find interesting. I have no idea how often I will be posting, but expect an
 assortment of topics and content.&lt;/p&gt;
