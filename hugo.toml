@@ -1,4 +1,5 @@
-baseURL = 'http://localhost:1313/'
+baseURL = '/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Taylor Font'
 theme = 're-terminal'

@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Taylor Font</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Taylor Font</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 20:23:52 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dotfiles</title>
-      <link>http://localhost:1313/tags/dotfiles/</link>
+      <link>//localhost:1313/tags/dotfiles/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/dotfiles/</guid>
+      <guid>//localhost:1313/tags/dotfiles/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hjem</title>
-      <link>http://localhost:1313/tags/hjem/</link>
+      <link>//localhost:1313/tags/hjem/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/hjem/</guid>
+      <guid>//localhost:1313/tags/hjem/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Home-Manager</title>
-      <link>http://localhost:1313/tags/home-manager/</link>
+      <link>//localhost:1313/tags/home-manager/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/home-manager/</guid>
+      <guid>//localhost:1313/tags/home-manager/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Neovim</title>
-      <link>http://localhost:1313/tags/neovim/</link>
+      <link>//localhost:1313/tags/neovim/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/neovim/</guid>
+      <guid>//localhost:1313/tags/neovim/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Nix</title>
-      <link>http://localhost:1313/tags/nix/</link>
+      <link>//localhost:1313/tags/nix/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/nix/</guid>
+      <guid>//localhost:1313/tags/nix/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Nvf</title>
-      <link>http://localhost:1313/tags/nvf/</link>
+      <link>//localhost:1313/tags/nvf/</link>
       <pubDate>Sat, 28 Jun 2025 20:23:52 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/nvf/</guid>
+      <guid>//localhost:1313/tags/nvf/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hello-World</title>
-      <link>http://localhost:1313/tags/hello-world/</link>
+      <link>//localhost:1313/tags/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/hello-world/</guid>
+      <guid>//localhost:1313/tags/hello-world/</guid>
       <description></description>
       <content></content>
     </item>

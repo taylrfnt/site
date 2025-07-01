@@ -13,7 +13,7 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="http://localhost:1313/posts/nix-modules/" />
+<link rel="canonical" href="//localhost:1313/posts/nix-modules/" />
 
 
 
@@ -26,7 +26,7 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
   
   
   
-  <link rel="stylesheet" href="http://localhost:1313/styles.css">
+  <link rel="stylesheet" href="//localhost:1313/styles.css">
 
 
 
@@ -34,8 +34,8 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
 
 
 
-  <link rel="shortcut icon" href="http://localhost:1313/img/theme-colors/green.png">
-  <link rel="apple-touch-icon" href="http://localhost:1313/img/theme-colors/green.png">
+  <link rel="shortcut icon" href="//localhost:1313/img/theme-colors/green.png">
+  <link rel="apple-touch-icon" href="//localhost:1313/img/theme-colors/green.png">
 
 
 
@@ -49,12 +49,12 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
 <meta property="og:description" content="I have been using NixOS for about a year now. My daily driver is a Mac Mini M4, which I manage with nix (the package manager). I also have several NixOS machines that host my homelab, and a NixOS cirtual machine that I have started to use as my own fully-customized development environment.
 All that said, the majority of my time using Nix &amp; NixOS has involved minimal exploration of modules. I relied heavily on the use of the usual suspects: home-manager for manaing my user packages and dotfiles and nix-darwin for declarative management of my MacOS environment. I never found an ideal replacement for my Neovim configurations, so I relied on the trusty mkOutOfStoreSymlink.
 " />
-<meta property="og:url" content="http://localhost:1313/posts/nix-modules/" />
+<meta property="og:url" content="//localhost:1313/posts/nix-modules/" />
 <meta property="og:site_name" content="Taylor Font" />
 
   
   
-  <meta property="og:image" content="http://localhost:1313/">
+  <meta property="og:image" content="//localhost:1313/">
 
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
@@ -88,7 +88,7 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
   <header class="header">
   <div class="header__inner">
     <div class="header__logo">
-      <a href="/">
+      <a href="../../">
   <div class="logo">
     $HOME
   </div>
@@ -102,15 +102,15 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
     <ul class="menu__dropdown">
       
         
-          <li><a href="/about">About</a></li>
+          <li><a href="../../about">About</a></li>
         
       
         
-          <li><a href="/posts">Posts</a></li>
+          <li><a href="../../posts">Posts</a></li>
         
       
         
-          <li><a href="/showcase">Showcase</a></li>
+          <li><a href="../../showcase">Showcase</a></li>
         
       
       
@@ -128,15 +128,15 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
       
       
         
-          <li><a href="/about" >About</a></li>
+          <li><a href="../../about" >About</a></li>
         
       
         
-          <li><a href="/posts" >Posts</a></li>
+          <li><a href="../../posts" >Posts</a></li>
         
       
         
-          <li><a href="/showcase" >Showcase</a></li>
+          <li><a href="../../showcase" >Showcase</a></li>
         
       
       
@@ -152,7 +152,7 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
     
 <article class="post">
   <h1 class="post-title">
-    <a href="http://localhost:1313/posts/nix-modules/">Some Neat Nix Modules</a>
+    <a href="//localhost:1313/posts/nix-modules/">Some Neat Nix Modules</a>
   </h1>
   <div class="post-meta"><time class="post-date">2025-06-28[Updated::2025-06-28]</time><span class="post-author">Taylor Font</span>
     
@@ -161,17 +161,17 @@ All that said, the majority of my time using Nix &amp; NixOS has involved minima
   
     <span class="post-tags">
       
-      #<a href="http://localhost:1313/tags/nix/">nix</a>&nbsp;
+      #<a href="//localhost:1313/tags/nix/">nix</a>&nbsp;
       
-      #<a href="http://localhost:1313/tags/neovim/">neovim</a>&nbsp;
+      #<a href="//localhost:1313/tags/neovim/">neovim</a>&nbsp;
       
-      #<a href="http://localhost:1313/tags/dotfiles/">dotfiles</a>&nbsp;
+      #<a href="//localhost:1313/tags/dotfiles/">dotfiles</a>&nbsp;
       
-      #<a href="http://localhost:1313/tags/home-manager/">home-manager</a>&nbsp;
+      #<a href="//localhost:1313/tags/home-manager/">home-manager</a>&nbsp;
       
-      #<a href="http://localhost:1313/tags/nvf/">nvf</a>&nbsp;
+      #<a href="//localhost:1313/tags/nvf/">nvf</a>&nbsp;
       
-      #<a href="http://localhost:1313/tags/hjem/">hjem</a>&nbsp;
+      #<a href="//localhost:1313/tags/hjem/">hjem</a>&nbsp;
       
     </span>
   
@@ -227,7 +227,7 @@ allows for the use of raw Lua when it is needed via the
 <a href="https://nixos.org/manual/nixpkgs/unstable/#function-library-lib.generators.mkLuaInline"><code>mkLuaInline</code></a>
 generator. It is available as a standalone Nix module (or as a Home-Manager
 module, for those who wish to stick with Home-Manager; though be sure to read
-<a href="/posts/nix-modules/#for-the-home-manager-hater---hjem">the next section</a> for an up-and-coming
+<a href="../../posts/nix-modules/#for-the-home-manager-hater---hjem">the next section</a> for an up-and-coming
 module which may change your mind!).</p>
 <p>There&rsquo;s also a very comprehnsive list of existing support for Neovim plugins
 from maintainers as well as the community - with more plugins and options being
@@ -317,7 +317,7 @@ Cheers!</p>
         
         
         <span class="button next">
-            <a href="http://localhost:1313/posts/goa-design/">
+            <a href="//localhost:1313/posts/goa-design/">
                 <span class="button__text">Generative API Design with Goa</span>
                 <span class="button__icon">→</span>
             </a>
@@ -353,7 +353,7 @@ Cheers!</p>
 
 
 
-<script type="text/javascript" src="/bundle.min.js"></script>
+<script type="text/javascript" src="../../bundle.min.js"></script>
 
 
 
