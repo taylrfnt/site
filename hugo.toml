@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Taylor Font'
 theme = 're-terminal'
 pagination.pagerSize = 5
 
@@ -79,7 +79,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-TErminal"
+      logoText = "$HOME"
       logoHomeLink = "/"
 
     [languages.en.menu]
