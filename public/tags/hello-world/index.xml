@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello-World on Taylor Font</title>
-    <link>//localhost:1313/tags/hello-world/</link>
+    <link>/tags/hello-world/</link>
     <description>Recent content in Hello-World on Taylor Font</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Jun 2025 14:45:29 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 14:45:29 -0500</lastBuildDate><atom:link href="/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sat, 28 Jun 2025 14:45:29 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/hello-world/</guid>
+      <guid>/posts/hello-world/</guid>
       <description>&lt;p&gt;This is my first content page for my site.&lt;/p&gt;
 &lt;p&gt;My name is Taylor, and I am a mechanical engineer turned software engineer with
 an interest in in backend development, terminal emulation, and more recently,

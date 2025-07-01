@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/dotfiles/</loc>
+    <loc>/tags/dotfiles/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hjem/</loc>
+    <loc>/tags/hjem/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/home-manager/</loc>
+    <loc>/tags/home-manager/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/neovim/</loc>
+    <loc>/tags/neovim/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/nix/</loc>
+    <loc>/tags/nix/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/nvf/</loc>
+    <loc>/tags/nvf/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/nix-modules/</loc>
+    <loc>/posts/nix-modules/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-28T20:23:52-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2025-06-28T14:45:29-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hello-world/</loc>
+    <loc>/tags/hello-world/</loc>
     <lastmod>2025-06-28T14:45:29-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
