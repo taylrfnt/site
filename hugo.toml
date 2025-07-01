@@ -1,5 +1,6 @@
 baseURL = '/'
 relativeURLs = true
+disableLiveReload = true
 languageCode = 'en-us'
 title = 'Taylor Font'
 theme = 're-terminal'
