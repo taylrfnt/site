@@ -84,7 +84,7 @@ and in just an hour I had a fully functional Neovim configuration up and
 running! The documentation is built out of the module directly, so there's never
 problems with things being out of date or broken when trying to RTFM.
 
-finally - let's talk about contributions. I found myself in a very niche
+Finally - let's talk about contributions. I found myself in a very niche
 situation one day where I needed to configure the placement of my diagnostic
 icons in neotree, but found the option did not exist. The contribution
 guidelines for `nvf` are also excellent, and I was able to quickly get new
@@ -165,6 +165,6 @@ If you're curious about `hjem`, you can check it out
 
 ::::::::::
 
-That's all I have for now! Hopefully my experience on these modules have at
+That's all I have for now! Hopefully my experience with these modules has at
 least given you something to think about for your own Nix configurations.
 Cheers!
