@@ -22,7 +22,7 @@ to use as my own fully-customized development environment.
 
 All that said, the majority of my time using Nix & NixOS has involved minimal
 exploration of modules. I relied heavily on the use of the usual suspects:
-`home-manager` for manaing my user packages and dotfiles and `nix-darwin` for
+`home-manager` for managing my user packages and dotfiles and `nix-darwin` for
 declarative management of my MacOS environment. I never found an ideal
 replacement for my Neovim configurations, so I relied on the trusty
 [`mkOutOfStoreSymlink`](https://github.com/nix-community/home-manager/blob/76d0c31fce2aa0c71409de953e2f9113acd5b656/modules/files.nix#L76-L119).
