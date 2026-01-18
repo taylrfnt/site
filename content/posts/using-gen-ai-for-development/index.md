@@ -193,7 +193,7 @@ not have a definitive approach for this feature. I asked for the change, but did
 not give many specifics, only the control sequence for how to implement a
 hyperlink:
 
-> can you use an OSC 8 sequence to make the text "PR <number>" a hyperlink to
+> can you use an OSC 8 sequence to make the text "PR \<number\>" a hyperlink to
 > the PR as well?
 
 > Done! The "PR #" text is now an OSC 8 hyperlink pointing to

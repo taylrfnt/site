@@ -229,4 +229,9 @@ enableGitInfo = true
   [mediaTypes.'video/x-msvideo']
     delimiter = '.'
     suffixes = ['avi']
-
+[outputs]
+  home = ['html', 'rss']
+  page = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
