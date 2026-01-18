@@ -1,5 +1,4 @@
 baseURL = 'https://taylorfont.com'
-relativeURLs = true
 disableLiveReload = true
 languageCode = 'en-us'
 title = 'Taylor Font'
