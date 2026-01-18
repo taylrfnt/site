@@ -1,6 +1,7 @@
 # build
 build/
 public/
+resources/
 
 # macOS
 .DS_Store
