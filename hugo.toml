@@ -229,5 +229,3 @@ pagination.pagerSize = 5
     delimiter = '.'
     suffixes = ['avi']
 
-[outputs]
-  posts = ['html', 'rss']
