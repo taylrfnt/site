@@ -4,6 +4,7 @@ date = "2025-10-19T11:31:05-05:00"
 author = "Taylor Font"
 authorTwitter = "" #do not include @
 cover = ""
+draft = true
 coverCaption = ""
 tags = ["ai", "vibe-coding", "vim"]
 keywords = ["", ""]
@@ -95,9 +96,9 @@ qwen2.5-coder:latest        dae161e27b0e    4.7 GB    1 week ago
 qwen2:latest                dd314f039b9d    4.4 GB    3 weeks ago
 ```
 
-I found using the local models in `ollama` directly was a bit clunky, espeically
+I found using the local models in `ollama` directly was a bit clunky, especially
 for what I was picturing for my workflow. I wanted a more agentic style
-intercation with these models, and `opencode` allowed me to have a little more
+interaction with these models, and `opencode` allowed me to have a little more
 flexibility there (more on that toward the end of this post when I discuss my
 current workflow & configurations).
 
@@ -117,7 +118,7 @@ CLI tools.
 
 As I hinted at, I did play around with paid models as well, using mostly free
 tiers and per-token rates where I could to minimize cost. I also trialed a
-GitHub Copilot subsription for some additional access to more premium models.
+GitHub Copilot subscription for some additional access to more premium models.
 
 ## Implementation
 

@@ -1,4 +1,4 @@
-# baseURL = '/'
+baseURL = 'https://taylorfont.com'
 relativeURLs = true
 disableLiveReload = true
 languageCode = 'en-us'
@@ -12,8 +12,8 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
-   themeColor = "green"
-   # if you set this to 0, only submenu trigger will be visible
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
 
   # show selector to switch language
@@ -228,3 +228,6 @@ pagination.pagerSize = 5
   [mediaTypes.'video/x-msvideo']
     delimiter = '.'
     suffixes = ['avi']
+
+[outputs]
+  posts = ['html', 'rss']
