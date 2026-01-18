@@ -1,9 +1,11 @@
 baseURL = 'https://taylorfont.com'
-disableLiveReload = true
+# relativeURLs = true
+disableLiveReload = false
 languageCode = 'en-us'
 title = 'Taylor Font'
 theme = 're-terminal'
 pagination.pagerSize = 5
+enableGitInfo = true
 
 [params]
   # dir of main content (default is `content/posts`)
@@ -47,7 +49,7 @@ pagination.pagerSize = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = true # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
