@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html:root {
-  --accent: #23b0ff; }
+  --accent: #ff6266; }
 
 :root {
   --accent-contrast-color: black;

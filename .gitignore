@@ -1,0 +1,6 @@
+# build
+build/
+public/
+
+# macOS
+.DS_Store
