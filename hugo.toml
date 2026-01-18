@@ -1,5 +1,5 @@
-baseURL = 'https://taylorfont.com'
-# relativeURLs = true
+# baseURL = 'https://taylorfont.com'
+relativeURLs = true
 disableLiveReload = false
 languageCode = 'en-us'
 title = 'Taylor Font'
