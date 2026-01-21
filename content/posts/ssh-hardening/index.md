@@ -6,7 +6,7 @@ cover = ""
 coverCaption = ""
 tags = ["ssh", "security", "yubikey", "fido2"]
 keywords = ["ssh", "security", "hardening"]
-description = "A short and sweet guide on best practices to harden SSH and increase security for your public-facing resources."
+description = "A short and sweet roadmap including best practices to harden SSH and increase security for your public-facing resources."
 showFullContent = false
 readingTime = true
 hideComments = false
@@ -38,7 +38,7 @@ warning:
 Between the above warning, other warnings about insecure or unsupported key
 types, and the general state of the world, you might be interested in hardening
 SSH for your servers. If you are, look no further - this blog post is meant to
-provide you with a no-nonsense guide to hardning SSH for the modern age, and
+provide you with a no-nonsense roadmap to hardning SSH for the modern age, and
 provide you with a few additional ways you can further secure your servers and
 identities.
 
