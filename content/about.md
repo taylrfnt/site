@@ -2,6 +2,7 @@
 date = '2025-06-28T14:45:29-05:00'
 draft = false
 title = 'About Me'
+Toc = false
 +++
 
 ## Taylor Font
