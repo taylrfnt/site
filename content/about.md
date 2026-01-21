@@ -19,8 +19,8 @@ sorts of crazy things and volunteering with the Ghostty team as a helper.
 
 | Certification Name                     | Issued | Expires |
 | -------------------------------------- | ------ | ------- |
-| Microsoft Azure Fundamentals [AZ-900]  | 2022   | --      |
-| Microsoft Azure Administrator [AZ-104] | 2025   | 2026    |
+| [Microsoft Azure Fundamentals [AZ-900]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/B5A3570E9454E44?sharingId=76B0B8970C40B907)  | 2022   | --      |
+| [Microsoft Azure Administrator [AZ-104]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/1DBE31596F407CDA?sharingId=76B0B8970C40B907) | ~~2025~~ 2026   | ~~2026~~ 2027    |
 
 ## Technology I Love
 
