@@ -13,14 +13,14 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Disclaimer
+## Disclaimer
 
 **Nothing I write about in this blog post is sponsored. I do, on occasion,
 recommend a few specific tools and platforms that I personally use, but those
 are not paid endorsements or sponsored content. Just me liking them based on my
 personal usage.**
 
-# Setting the stage
+## Setting the stage
 
 It's 2026. Hackers are more skilled than ever, zero-days are being published at
 what feels like an ever-increasing pace, quantum computing is now a concern for
@@ -42,13 +42,13 @@ provide you with a no-nonsense roadmap to hardning SSH for the modern age, and
 provide you with a few additional ways you can further secure your servers and
 identities.
 
-# Low-hanging fruit
+## Low-hanging fruit
 
 This section will cover the basics that everyone should be doing, no matter
 what. This section is going to be the oft-repeated-but-not-actioned advice that
 you've seen a million times, unless this is your first day on the internet.
 
-## Updating OpenSSH
+### Updating OpenSSH
 
 Before you do anything, you should always make sure your version of OpenSSH is
 as modern as it can be. For folks using rolling distributions or package
@@ -60,7 +60,7 @@ for said version via official repos.
 Making sure you keep OpenSSH updated ensures you're not leaving the door open to
 any CVEs that may be disclosed and exploited.
 
-## Default SSH configurations
+### Default SSH configurations
 
 This next one is oft-repeated-but-not-actioned. Change the default SSH
 configuration. Tools like [`ssh-audit`](https://github.com/jtesta/ssh-audit) are
@@ -82,7 +82,7 @@ to specifically update:
   bouncing bad actors and not breaking your login attempt any time you make a
   mistake.
 
-# Modern hardening methods
+## Modern hardening methods
 
 In addition to the tried-and-true classics, there's several additional steps
 that can be taken to enhance your security posture. While the aforementioned
@@ -94,7 +94,7 @@ In today's day and age, security extends into all sorts of things - scams are
 more common than ever, passwords are breached all the time, and online systems
 are just as vulnerable, if not more, than physical ones.
 
-## Hardware-authenticator enabled keys for SSH
+### Hardware-authenticator enabled keys for SSH
 
 WebAuthn has had the concept of passkeys for a while now. You probably know
 passkeys from the popup that appears on pretty much every wbesite that you log
@@ -154,7 +154,7 @@ Either way you slice it, the FIDO2-enabled keys are a step up from the standard
 SSH keys, especially considering more people don't put passphrases on their keys
 than anyone would like to admit.
 
-## Take your SSH off the internet
+### Take your SSH off the internet
 
 This final item in this article I will discuss is likely the most niche. If
 you're hosting servers on a private network, this may not be for you, unless
@@ -193,7 +193,7 @@ hello to the peace of mind that comes with knowing bots and automated scans will
 no longer be able to connect to your server - it's effectively been removed from
 the internet!
 
-# Wrap-up
+## Wrap-up
 
 This blog post is not meant to be a deep, in-the-weeds guide for how to harden
 your security posture line-by-line. That documentation is out there in the wild,
@@ -201,7 +201,7 @@ written by people much smarter than me. Over the last few years, I have observed
 a surprisingly large amount of carelessness when it comes to some of the basic
 steps that can be taken to secure a server or secrets, and felt compelled to
 write this. Just a short and sweet mention of the basic concepts that can be
-applied with minimal effort that reap significant benefits.It was cathartic.
+applied with minimal effort that reap significant benefits. It was cathartic.
 
 I've implemented everything I have mentioned in the post in one way or another
 on all of my environments, and I have noticed minimal (if any) interruption to
