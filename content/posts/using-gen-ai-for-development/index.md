@@ -47,8 +47,12 @@ feels much more polished than others, and Amp has some great features out of the
 box that other AI tools do not. My personal favorites are:
 
 - [the Oracle](https://ampcode.com/news/oracle)
-- [$10 USD in daily free credits from ad-supported sessions](https://ampcode.com/free)
+- [$10 USD in daily free credits from ad-supported sessions](https://ampcode.com/free)[^1]
 - [thread handoff](https://ampcode.com/news/ask-to-handoff).
+
+[^1]: The folks at Amp have
+    [paused Amp Free for new users](https://ampcode.com/news/amp-free-is-full-for-now)
+    as of February 2026.
 
 One of my major complaints about AI TUIs is the fact that most of them do not
 integrate well with Neovim. When using an AI CLI, my workflow looks something
