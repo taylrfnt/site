@@ -47,8 +47,12 @@ feels much more polished than others, and Amp has some great features out of the
 box that other AI tools do not. My personal favorites are:
 
 - [the Oracle](https://ampcode.com/news/oracle)
-- [$10 USD in daily free credits from ad-supported sessions](https://ampcode.com/free)
+- [$10 USD in daily free credits from ad-supported sessions](https://ampcode.com/free)[^1]
 - [thread handoff](https://ampcode.com/news/ask-to-handoff).
+
+[^1]: The folks at Amp have
+    [paused Amp Free for new users](https://ampcode.com/news/amp-free-is-full-for-now)
+    as of February 2026.
 
 One of my major complaints about AI TUIs is the fact that most of them do not
 integrate well with Neovim. When using an AI CLI, my workflow looks something
@@ -73,9 +77,9 @@ One of the maintainers keeping the Neovim ecosystem alive (a la
 [xkcd#2347](https://xkcd.com/2347/)) solves the other half of my gripe. Folke's
 [`sidekick.nvim`](https://github.com/folke/sidekick.nvim) provides a way to get
 the AI CLIs into my Neovim session via another buffer pane, meaning I never
-again need to switch between Neovim and my AI TUI.[^1]
+again need to switch between Neovim and my AI TUI.[^2]
 
-[^1]: As I have mentioned in my [Nix modules](/nix-modules) post, I use `nvf` to
+[^2]: As I have mentioned in my [Nix modules](/nix-modules) post, I use `nvf` to
     manage my Neovim configuration via Nix. You can see my packaging of
     `amp.vim` and `sidekick.nvim` in
     [my dotfiles](https://github.com/taylrfnt/dotfiles/blob/fb92f73f4a9f3d29f6b332acbc33683a28206298/modules/nvf/plugins/default.nix#L22-L43).
@@ -93,9 +97,9 @@ I was tracking a few PRs, like
 [nixpkgs#470883](https://github.com/NixOS/nixpkgs/pull/470883) and was tired of
 going to the website every time I needed to track the same PR. I wanted to be
 able to issue a terminal command and see PR progress through various NixOS
-channels.[^2]
+channels.[^3]
 
-[^2]: For those that don't use Nix, this bit about the inspiration for this tool
+[^3]: For those that don't use Nix, this bit about the inspiration for this tool
     will probably not make a ton of sense. Suffice to say, I saw a web-based app
     that I used frequently, and wanted it in the terminal.
 
@@ -231,13 +235,13 @@ feature.
 I wanted to document my experience and workflow to hopefully assist other
 developers who, like me, are skeptical of "vibe coding" and the atrophy of our
 brains when we do not use the skills we have learned, or are cynical about AI
-for any number of reasons.[^3]
+for any number of reasons.[^4]
 
 AI can be a powerful tool in the right hands, but it isn't a silver bullet.
 Treat it as a tool, not a crutch, and I think you might just be amazed the gains
 you can make without the typical consequences of vibe coding.
 
-[^3]: There's many topics in the AI conversation that are unaddressed, since it
+[^4]: There's many topics in the AI conversation that are unaddressed, since it
     is an emerging technology. There's the
     [hidden cost of AI being passed to consumers](https://youtu.be/YN6BEUA4jNU?si=D4ttRlrhYDfuYocI),
     the consumption of critical resources like
