@@ -24,7 +24,8 @@ personal usage.**
 
 It's 2026. Hackers are more skilled than ever, zero-days are being published at
 what feels like an ever-increasing pace, quantum computing is now a concern for
-breaking once faithful encryption algorithms.
+breaking once faithful encryption algorithms. In addition, AI agents are
+constantly fuzzing what feels like the entire internet.
 
 You might SSH into a server nowadays and see something like the following
 warning:
@@ -35,12 +36,12 @@ warning:
 ** The server may need to be upgraded. See https://openssh.com/pq.html
 ```
 
-Between the above warning, other warnings about insecure or unsupported key
-types, and the general state of the world, you might be interested in hardening
-SSH for your servers. If you are, look no further - this blog post is meant to
-provide you with a no-nonsense roadmap to hardning SSH for the modern age, and
-provide you with a few additional ways you can further secure your servers and
-identities.
+If you're anything like me, that warning drives you nuts. Between the above
+warning, other warnings about insecure or unsupported key types, and the general
+state of the world, you might be interested in hardening SSH for your servers.
+If you are, look no further - this blog post is meant to provide you with a
+no-nonsense roadmap to hardening SSH for the modern age, and provide you with a
+few additional ways you can further secure your servers and identities.
 
 ## Low-hanging fruit
 
