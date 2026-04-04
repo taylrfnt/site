@@ -10,7 +10,7 @@ Toc = false
 Hi! I am Taylor Font, and welcome to my site! I am a mechanical engineer turned
 consultant/software developer/general technology geek from the United States.
 
-I love learning up-and-coming technolgies, putting them into practice, and
+I love learning up-and-coming technologies, putting them into practice, and
 contribtuing back to the open source community.
 
 I currently spend my days split between my working hours at `$dayjob` doing all
@@ -18,10 +18,11 @@ sorts of crazy things and volunteering with the Ghostty team as a helper.
 
 ## Certifications
 
-| Certification Name                     | Issued | Expires |
-| -------------------------------------- | ------ | ------- |
-| [Microsoft Azure Fundamentals [AZ-900]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/B5A3570E9454E44?sharingId=76B0B8970C40B907)  | 2022   | --      |
-| [Microsoft Azure Administrator [AZ-104]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/1DBE31596F407CDA?sharingId=76B0B8970C40B907) | ~~2025~~ 2026   | ~~2026~~ 2027    |
+| Certification Name                                                                                                                                       | Issued        | Expires       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
+| [Microsoft Azure Fundamentals [AZ-900]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/B5A3570E9454E44?sharingId=76B0B8970C40B907)   | 2022          | --            |
+| [Microsoft Azure Administrator [AZ-104]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/1DBE31596F407CDA?sharingId=76B0B8970C40B907) | ~~2025~~ 2026 | ~~2026~~ 2027 |
+| [GitHub Copilot [GH-300]](https://learn.microsoft.com/api/credentials/share/en-us/taylorfont/A831820A1AB64D5E?sharingId=76B0B8970C40B907)                | 2026          | 2028          |
 
 ## Technology I Love
 
