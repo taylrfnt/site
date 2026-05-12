@@ -63,29 +63,29 @@ any CVEs that may be disclosed and exploited.
 
 ### Default SSH configurations
 
-This next one is oft-repeated-but-not-actioned. Change the default SSH
+This next one is on every blog known to man. Change the default SSH
 configuration. Tools like [`ssh-audit`](https://github.com/jtesta/ssh-audit) are
 a fantatsic way to audit your SSH configurations and harden them.
 
 In case you don't want to run the tool, there's a few things that you will want
 to specifically update:
 
-- Disabling SSH logins via password. Use SSH keys instead.
-- Disable root login via SSH. Properly configure your sudo rules to allow users
-  access to run commands as `root` where needed.
-- Disable weak/vulnerable key algorithms. The most well-known offender is the
-  [Diffie-Helman key exchange](https://medium.com/@lydia.cao26/diffie-hellman-key-exchange-basics-and-vulnerabilities-afc51342988e),
-  but there are others. Most modern OpenSSH defaults should disable many of
-  these, but usually not all.
-- Limit authentication attempts. Set the amount of times a login attempt can
-  fail authentication before being blocked or having to reconnect later. Leave
-  yourself some room for mistakes - 3 to 5 attempts is usually enough to balance
-  bouncing bad actors and not breaking your login attempt any time you make a
-  mistake.
+1. Disabling SSH logins via password. Use SSH keys instead.
+1. Disable root login via SSH. Properly configure your sudo rules to allow users
+   access to run commands as `root` where needed.
+1. Disable weak/vulnerable key algorithms. The most well-known offender is the
+   [Diffie-Helman key exchange](https://medium.com/@lydia.cao26/diffie-hellman-key-exchange-basics-and-vulnerabilities-afc51342988e),
+   but there are others. Most modern OpenSSH defaults should disable many of
+   these, but usually not all.
+1. Limit authentication attempts. Set the amount of times a login attempt can
+   fail authentication before being blocked or having to reconnect later. Leave
+   yourself some room for mistakes - 3 to 5 attempts is usually enough to
+   balance bouncing bad actors and not breaking your login attempt any time you
+   make a mistake.
 
 ## Modern hardening methods
 
-In addition to the tried-and-true classics, there's several additional steps
+In addition to the tried and true classics, there's several additional steps
 that can be taken to enhance your security posture. While the aforementioned
 items focused specifically on OpenSSH configuration and patches, this next
 section will expand our horizons - security is NOT just editing a config file or
@@ -155,7 +155,7 @@ Either way you slice it, the FIDO2-enabled keys are a step up from the standard
 SSH keys, especially considering more people don't put passphrases on their keys
 than anyone would like to admit.
 
-### Take your SSH off the internet
+### Remove your SSH from the internet
 
 This final item in this article I will discuss is likely the most niche. If
 you're hosting servers on a private network, this may not be for you, unless
@@ -184,9 +184,9 @@ and devices into a _tailnet_. This provides you with private IPs and MagicDNS
 a private connection. Just install Tailscale, authenticate, and you're off to
 the races. It's literally [that simple](https://tailscale.com/kb/1017/install).
 
-Just using Tailscale will send your SSH sessions over the private network mesh
-for your tailnet; however, it will not prohibit any access from the internet. We
-will want to fix that. You can use a tool like `ufw` to
+Using Tailscale will send your SSH sessions over the private network mesh for
+your tailnet; however, it will not prohibit any access from the internet by
+default. We will want to fix that. You can use a tool like `ufw` to
 [block all connections
 _except_ those coming over your tailnet](https://tailscale.com/kb/1077/secure-server-ubuntu),
 which makes it so that no one can SSH to your servers over the internet. Say
